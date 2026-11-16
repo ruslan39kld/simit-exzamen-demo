@@ -1,0 +1,6 @@
+{
+  "name": "AI-экзаменатор официантов — STIMIT",
+  "description": "Автономный демо-стенд мультиагентной AI-системы для аттестации официантов ресторана по меню и регламенту сервиса.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
